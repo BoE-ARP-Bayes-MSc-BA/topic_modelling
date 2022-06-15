@@ -1,2 +1,2 @@
 # topic_modelling
-Topic modelling project for ARP. 
+Topic modelling for ARP. 
