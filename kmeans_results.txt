@@ -1,0 +1,260 @@
+Cluster 0
+ today
+ information
+ morning
+ time
+ couple year
+ income
+ impact
+ health
+ guidance
+ growth
+
+
+Cluster 1
+ question line
+ line
+ question
+ year
+ couple
+ impact
+ health
+ guidance
+ growth
+ flow
+
+
+Cluster 2
+ portfolio
+ mortality
+ cover
+ calculation
+ business
+ loss
+ release
+ year
+ point
+ question
+
+
+Cluster 3
+ year
+ number
+ business
+ investment
+ increase
+ growth
+ life
+ ratio
+ course
+ calculation
+
+
+Cluster 4
+ year
+ loss
+ ratio
+ impact
+ assumption
+ quarter
+ account
+ business
+ number
+ release
+
+
+Cluster 5
+ growth
+ budget
+ loss
+ year
+ quarter
+ increase
+ basis
+ number
+ course
+ time
+
+
+Cluster 6
+ cash
+ flow
+ cash flow
+ question
+ loss
+ growth
+ ratio
+ business
+ driver
+ effect
+
+
+Cluster 7
+ claim
+ quarter
+ book
+ driver
+ basis
+ result
+ investment
+ retro
+ bit
+ profitability
+
+
+Cluster 8
+ point
+ question
+ year
+ couple year
+ income
+ impact
+ health
+ guidance
+ growth
+ flow
+
+
+Cluster 9
+ premium
+ loss
+ number
+ year
+ increase
+ impact
+ health
+ guidance
+ growth
+ flow
+
+
+Cluster 10
+ thank
+ year
+ couple
+ income
+ impact
+ health
+ guidance
+ growth
+ flow
+ effect
+
+
+Cluster 11
+ growth
+ guidance
+ health
+ life
+ life health
+ year
+ impact
+ loss
+ question
+ income
+
+
+Cluster 12
+ mortality
+ quarter
+ year
+ couple year
+ income
+ impact
+ health
+ guidance
+ growth
+ flow
+
+
+Cluster 13
+ year
+ bit
+ effect
+ time
+ number
+ profit
+ asset
+ couple
+ couple year
+ impact
+
+
+Cluster 14
+ result
+ claim
+ mortality
+ question
+ cover
+ longevity
+ course
+ life
+ number
+ basis
+
+
+Cluster 15
+ bit
+ year
+ couple year
+ increase
+ income
+ impact
+ health
+ guidance
+ growth
+ flow
+
+
+Cluster 16
+ number
+ life
+ guidance
+ assumption
+ retro
+ cover
+ claim
+ life health
+ health
+ year
+
+
+Cluster 17
+ account
+ retro
+ couple
+ income
+ impact
+ health
+ guidance
+ growth
+ flow
+ effect
+
+
+Cluster 18
+ thank
+ information
+ business
+ release
+ budget
+ longevity
+ morning
+ bit
+ mortality
+ line
+
+
+Cluster 19
+ effect
+ bit
+ life health
+ health
+ life
+ number
+ year
+ course
+ impact
+ guidance
+
+
